@@ -2,3 +2,4 @@
 
 - JavaScript
   - bind
+  - ES6
