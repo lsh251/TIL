@@ -4,3 +4,4 @@
   - bind
   - ES6
   - setTimeout
+  - destructuring
