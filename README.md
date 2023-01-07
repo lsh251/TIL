@@ -5,3 +5,4 @@
   - ES6
   - setTimeout
   - destructuring
+  - tabindex
